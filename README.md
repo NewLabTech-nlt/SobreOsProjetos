@@ -4,7 +4,8 @@
 
 Bem-vindo ao repositório oficial da **NewLabTech**, onde a inovação encontra a tecnologia. 🚀
 
-![Logo](https://via.placeholder.com/600x200.png?text=NewLabTech+Logo)
+![Logo](![WhatsApp Image 2025-01-07 at 14 33 52](https://github.com/user-attachments/assets/7c63b334-d93d-4cee-b063-16f1b408dc03)
+)
 
 ## 🌟 Sobre a NewLabTech
 A **NewLabTech** é uma empresa focada no desenvolvimento de soluções tecnológicas que tornam a vida mais prática e eficiente. Acreditamos que, através da criatividade e tecnologia, podemos superar barreiras e criar um futuro mais conectado para todos.
