@@ -100,7 +100,7 @@ Siga as etapas abaixo para rodar qualquer um dos projetos localmente:
 ## 📬 Fale Conosco
 Tem alguma dúvida ou sugestão? Entre em contato conosco pelos canais abaixo:
 
-- 📧 Email: [nlt.newlabtech@gmail.com]([nlt.newlabtech@gmail.com)
+- 📧 Email: [nlt.newlabtech@gmail.com](https://mail.google.com/mail/u/1/#inbox)
 - 🌐 Instagram: [www.newlabtech.com](http://www.newlabtech.com)
 
 
