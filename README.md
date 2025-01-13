@@ -4,7 +4,7 @@
 
 Bem-vindo ao repositório oficial da **NewLabTech**, onde a inovação encontra a tecnologia. 🚀
 
-(![WhatsApp Image 2025-01-07 at 14 33 52](https://github.com/user-attachments/assets/7c63b334-d93d-4cee-b063-16f1b408dc03)
+![WhatsApp Image 2025-01-07 at 14 33 52](https://github.com/user-attachments/assets/7c63b334-d93d-4cee-b063-16f1b408dc03)
 
 
 ## 🌟 Sobre a NewLabTech
