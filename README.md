@@ -7,22 +7,6 @@ Bem-vindo ao repositório oficial da **NewLabTech**, onde a inovação encontra 
 ![WhatsApp Image 2025-01-07 at 14 33 52](https://github.com/user-attachments/assets/7c63b334-d93d-4cee-b063-16f1b408dc03)
 
 
-## 🌟 Sobre a NewLabTech
-A **NewLabTech** é uma empresa focada no desenvolvimento de soluções tecnológicas que tornam a vida mais prática e eficiente. Acreditamos que, através da criatividade e tecnologia, podemos superar barreiras e criar um futuro mais conectado para todos.
-
-### **Missão**
-Transformar ideias em soluções tecnológicas de impacto, promovendo inovação e acessibilidade para nossos clientes e a sociedade.
-
-### **Visão**
-Ser referência global em tecnologia aplicada, com produtos que inspirem confiança e qualidade, sempre comprometidos com a excelência e a sustentabilidade.
-
-### **Valores**
-- **Inovação**: Buscamos novas formas de resolver problemas.
-- **Compromisso**: Garantimos a entrega com qualidade e responsabilidade.
-- **Ética**: Atuamos com integridade e respeito.
-- **Colaboração**: Acreditamos que o trabalho em equipe é o caminho para o sucesso.
-
----
 
 ## 📂 Projetos
 Este repositório contém três projetos principais que ilustram nossa capacidade técnica e compromisso com soluções funcionais:
@@ -90,10 +74,7 @@ Siga as etapas abaixo para rodar qualquer um dos projetos localmente:
 
 ## 🛠️ Tecnologias Utilizadas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)  ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
@@ -109,6 +90,11 @@ Tem alguma dúvida ou sugestão? Entre em contato conosco pelos canais abaixo:
 ## 👩‍💻 Equipe
 A **NewLabTech** é formada por profissionais apaixonados por tecnologia e inovação. Juntos, construímos soluções de qualidade que fazem a diferença!
 
+Conheça os membros da nossa equipe:
+
+| **Gabriel Ferreira** | **Júlia Macedo** | **Beatriz Lemos** | **Pedro Lucas** |
+|---|---|---|---|
+| [![Gabriel Ferreira](https://avatars.githubusercontent.com/Gabrielzab?s=300)](https://github.com/Gabrielzab) | [![Júlia Macedo](https://avatars.githubusercontent.com/juliamacedo63?s=140)](https://github.com/juliamacedo63) | [![Beatriz Lemos](https://avatars.githubusercontent.com/BeatrizLemoss?s=140)](https://github.com/BeatrizLemoss) | [![Pedro Lucas](https://avatars.githubusercontent.com/pedro-2603?s=140)](https://github.com/pedro-2603) |
 ---
 
 > 💡 Se gostou do projeto, não esqueça de dar uma ⭐ no repositório!
